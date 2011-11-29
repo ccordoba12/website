@@ -253,6 +253,13 @@ table.index a:hover, table.index a:active {
     color: {{ theme_hoverlinkcolor }};
 }
 
+table#front-page td {
+    padding: 0px 30px 0px 30px;
+}
+
+table#front-page td#self {
+    padding: 17px 30px 0px 30px;
+}
 
 /* Haiku User Guide styles and layout */
 
