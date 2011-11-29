@@ -182,12 +182,12 @@ div.topnav > ul.tabs li {
 
 div.topnav > ul.tabs li a {
     display: block;
-    height: 34px;
+    height: 30px;
     text-align: center;
     line-height: 30px;
     font-size: 12px;
     text-decoration: none;
-    text-shadow: 0 1px 0 rgba(255, 255, 255, 1.0);
+    /*text-shadow: 0 1px 0 rgba(255, 255, 255, 1.0);*/
     border-right: 1px solid #EEE;
     border-right-color: rgba(0, 0, 0, 0.04);
     border-left: 1px solid #FCFCFC;
@@ -195,11 +195,14 @@ div.topnav > ul.tabs li a {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: url('./border.png')
+    background: url(button-bg.png);
+    color: #3b77b3;
 }
 
 div.topnav > ul.tabs li a.selected {
-    color: {{ theme_hoverlinkcolor }};
+    /*color: {{ theme_hoverlinkcolor }};*/
+    color: white;
+    background: url(button-selected-bg.png);
 }  
 
 div.bottomnav {
