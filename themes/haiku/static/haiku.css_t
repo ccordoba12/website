@@ -129,7 +129,7 @@ div.header h1 {
     border: 0;
     margin: 0;
     padding-top: 15px;
-    font-family: 'Kreon', Arial, serif;
+    font-family: 'Kreon', 'Bitstream Charter', Arial, serif;
     text-shadow: 0 1.6px 0 rgba(255, 255, 255, 1.0);
 }
 div.header h1 a {
@@ -144,7 +144,7 @@ div.header h2 {
     border: 0;
     margin-top: -3px;
     padding: 0;
-    font-family: 'Kreon', Arial, serif;
+    font-family: 'Kreon', 'Bitstream Charter', Arial, serif;
     text-shadow: 0 1.6px 0 rgba(255, 255, 255, 1.0);
 }
 
@@ -285,7 +285,7 @@ h1 {
     font-size: 28px;
     font-weight: 300;
     color: {{ theme_headingcolor }};
-    font-family: 'Kreon', Arial, sans-serif;
+    font-family: 'Kreon', 'Bitstream Charter', Arial, sans-serif;
     text-shadow: none;
     letter-spacing: -1px;
     border-bottom: dotted thin #e0e0e0;
