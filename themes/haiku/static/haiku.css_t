@@ -203,7 +203,8 @@ div.topnav > ul.tabs li a.selected {
 }  
 
 div.bottomnav {
-    background: #eeeeee;
+    background: #FFF url(footer-bg.png) top left repeat-x;
+    height: 25px;
     margin-left: 30px;
 }
 div.bottomnav p {
