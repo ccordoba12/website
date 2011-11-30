@@ -181,14 +181,15 @@ div.topnav > ul.tabs li {
 }
 
 div.topnav > ul.tabs li a {
-    font-weight: bold;
+    /*font-weight: bold;*/
+    font-family: 'Kreon', 'Bitstream Charter', Arial, serif;
     display: block;
     height: 30px;
     text-align: center;
     line-height: 30px;
-    font-size: 12px;
+    font-size: 15px;
     text-decoration: none;
-    /*text-shadow: 0 1px 0 rgba(255, 255, 255, 1.0);*/
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 1.0);
     border-right: 1px solid #EEE;
     border-right-color: rgba(0, 0, 0, 0.04);
     border-left: 1px solid #FCFCFC;
@@ -204,6 +205,7 @@ div.topnav > ul.tabs li a.selected {
     /*color: {{ theme_hoverlinkcolor }};*/
     color: white;
     background: url(button-selected-bg.png);
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 1.0);
 }  
 
 div.bottomnav {
