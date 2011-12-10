@@ -5,6 +5,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+============
 Acerca de mí
 ============
 
@@ -13,20 +14,19 @@ Acerca de mí
    <table border="0" id="front-page" align="center">
    <td width="700">
 
-Soy Físico de la `Universidad del Valle <http://www.univalle.edu.co/>`_ (2002)
+Soy Físico de la `Universidad del Valle <http://www.univalle.edu.co>`_ (2002)
 con Maestría también en Física de la `Universidad Nacional
 <http://www.unal.edu.co>`_ (2008). Actualmente soy Docente de la Escuela
-Colombiana de Carreras Industriales y en mi tiempo libre trabajo en varios
-proyectos open source.
-
-En esta página se encuentran los distintos proyectos en los que he trabajado y
-las publicaciones que he realizado.
+Colombiana de Carreras Industriales (`ECCI <http://www.ecci.edu.co>`_) y en mi
+tiempo libre trabajo en varios proyectos open source.
 
 Mis grandes pasiones son la Física Computacional, razón por la cual la mayoría
-de trabajo ha estado enfocado hacia la programación y la teoría de
-probabilidad.
+de mi trabajo ha resultado en cientos de líneas de código en distintos
+lenguajes de programación, y la Teoría de Probabilidad, como es enseñada por
+`Ed Jaynes <http://omega.albany.edu:8008/JaynesBook.html>`_ y en general por la
+escuela Bayesiana.
 
-Pueden contactarme a través de
+.. include:: contacto.rst
 
 .. raw:: html
    </td>
@@ -36,6 +36,6 @@ Pueden contactarme a través de
    </td>
    </table>
 
-.. <img> ./_static/perfil-1.jpg </img>
 ..  LocalWords:  LocalWords raw html table border td img static jpg src width
-..  LocalWords:  front page http www univalle edu co unal self
+..  LocalWords:  front page http www univalle edu co unal self align center Ed
+..  LocalWords:  Jaynes Bayesiana ECCI ecci source open include
