@@ -33,7 +33,7 @@ body {
     line-height: 1.5;
     margin: auto;
     padding: 0px;
-    font-family: "Actor", Arial, Helvetica, sans-serif;
+    font-family: "Quattrocento Sans", Arial, Helvetica, sans-serif;
     min-width: 59em;
     max-width: 70em;
     color: {{ theme_textcolor }};
