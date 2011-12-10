@@ -173,6 +173,11 @@ div.topnav p {
     font-size: 0.8em;
 }
 
+div.topnav > ul.tabs {
+    padding-left: 0px;
+    margin-top: 30px;
+}
+
 div.topnav > ul.tabs li {
     list-style-type: none;
     display: table-cell;
