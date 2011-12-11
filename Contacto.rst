@@ -3,7 +3,7 @@
 Contacto
 ========
 
-.. admonition:: Carlos Córdoba
+.. admonition:: Carlos A. Córdoba
 
    Email
      ccordoba12@gmail.com
@@ -27,8 +27,10 @@ Contacto
      .. |espacio| unicode:: U+2007
    
    Personal
-     | Actualmente estoy viviendo en Bogotá.
+     | Actualmente estoy viviendo en `Bogotá, Colombia`_.
      | Mi celular es +57 300.633.13.03
+
+     .. _Bogotá, Colombia: http://maps.google.es/maps/place?ftid=0x8e3f9bfd2da6cb29:0x239d635520a33914&q=Bogota,+Colombia&hl=en&ved=0CAwQ-gswAA&sa=X&ei=EwLlTsCrA6LKyQSaibWKBw
 
 ..  LocalWords:  LocalWords contactarme Google gplus icon twitter image static
 ..  LocalWords:  png target facebook unicode ccordoba
