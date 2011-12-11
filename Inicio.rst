@@ -26,8 +26,6 @@ lenguajes de programación, y la Teoría de Probabilidad, como es enseñada por
 `Ed Jaynes <http://omega.albany.edu:8008/JaynesBook.html>`_ y en general por la
 escuela Bayesiana.
 
-.. include:: contacto.rst
-
 .. raw:: html
    </td>
    
