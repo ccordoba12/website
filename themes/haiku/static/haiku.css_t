@@ -235,6 +235,9 @@ a.uplink {
     font-weight: normal;
 }
 
+a.reference.internal em {
+    font-style: normal;
+}
 
 /* contents box */
 
