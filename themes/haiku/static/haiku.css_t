@@ -105,8 +105,8 @@ a.headerlink:hover {
 
 div.content {
     margin-top: 20px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-bottom: 50px;
     font-size: 15px;
 }
