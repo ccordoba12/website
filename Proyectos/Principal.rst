@@ -4,9 +4,6 @@
 Proyectos
 ========= 
 
-Software
-========
-
 Como ya :doc:`mencioné <../Inicio>`, la mayoría de mi trabajo ha estado
 orientado hacia la programación y el desarrollo de software, no sólo porque
 creo firmemente en que el futuro de la ciencia reside en la creación de
@@ -17,18 +14,10 @@ exploración científica, al darnos la oportunidad de crear experimentos
 
 A lo largo de mi carrera profesional he trabajado principalmente en tres
 lenguajes de programación. De los lenguajes que tradicionalmente se usan en
-computación científica (e.g. Fortran, C, etc), sólo he utilizado C++. En
-realidad, mi trabajo se ha centrado en lenguajes de más alto nivel, que son más
+computación científica (e.g. Fortran o C), sólo he utilizado :doc:`C++`. En
+realidad, mi trabajo ha estado centrado en lenguajes de más alto nivel, más
 adecuados para sacar el máximo provecho al computador en el menor tiempo
-posible por parte del programador.
-
-.. toctree::
-   :maxdepth: 1
-
-   Mathematica
-   C++
-   Python
-
+posible por parte del programador, como :doc:`Mathematica` o :doc:`Python`.
 
 
 
