@@ -9,7 +9,7 @@ Software
 
 Como ya :doc:`mencioné <../Inicio>`, la mayoría de mi trabajo ha estado
 orientado hacia la programación y el desarrollo de software, no sólo porque
-creo firmemente en que el futuro de la ciencia reside en el desarrollo de
+creo firmemente en que el futuro de la ciencia reside en la creación de
 nuevos y cada vez más potentes modelos computacionales, sino porque también
 siento que el computador nos permite disfrutar tan fácilmente del gozo de la
 exploración científica, al darnos la oportunidad de crear experimentos
