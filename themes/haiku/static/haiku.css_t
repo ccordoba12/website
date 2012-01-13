@@ -385,6 +385,11 @@ tt {
     font-family: monospace;
 }
 
+a.download.reference.internal span.pre {
+    font-family: "Quattrocento Sans", Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
 pre {
     border-color: #0c3762;
     border-style: dotted;
