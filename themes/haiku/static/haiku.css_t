@@ -283,6 +283,10 @@ table#front-page td#self {
     padding: 17px 30px 0px 30px;
 }
 
+table#front-page td#projects {
+    padding: 17px 10px 0px 20px;
+}
+
 /* Haiku User Guide styles and layout */
 
 /* Rounded corner boxes */
