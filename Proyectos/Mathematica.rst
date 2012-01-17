@@ -1,8 +1,13 @@
 .. -*- mode: rst; mode: flyspell; mode: auto-fill; mode: wiki-nav-*- 
 
-===========
-Mathematica
-=========== 
+=========================
+Mathematica (1998 - 2004)
+========================= 
+
+.. raw:: html
+
+   <table border="0" id="front-page" align="center">
+   <td width="80%">
 
 `Mathematica`_ fue el primer lenguaje en el aprendí a programar, gracias al
 excelente :download:`curso <../downloads/Introducción a Mathematica
@@ -28,9 +33,18 @@ mi :doc:`tesis de pregrado <Tesis de pregrado>` y más adelante decidí crear un
 librería (o paquete) para mejorar las capacidades de :doc:`resaltado de los
 notebooks <Mejoras de resaltado a los notebooks>`.
 
+.. raw:: html
+   </td>
+   
+   <td width="30%">
+   <img src="../_static/mathematica-4.png">
+   </td>
+   </table>
 
 .. _notebooks: http://reference.wolfram.com/mathematica/tutorial/UsingANotebookInterface.html
 .. _Mathematica: http://www.wolfram.com/mathematica/
 .. _Jürgen Tischer: http://genealogy.math.ndsu.nodak.edu/id.php?id=21393
 
-..  LocalWords:  download downloads Mathematica LocalWords notebooks
+..  LocalWords:  download downloads Mathematica LocalWords notebooks png width
+..  LocalWords:  mathematica border table td src static pregrado raw html page
+..  LocalWords:  front align center
