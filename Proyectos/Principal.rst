@@ -29,11 +29,11 @@ posible por parte del programador, como :doc:`Mathematica <Mathematica>` o
 .. raw:: html
    </td>
    
-   <td width="40%" id="projects">
-   <img src="../_static/proyectos-5.png">
+   <td width="30%" id="projects">
+   <img src="../_static/projects.png">
    </td>
    </table>
 
 ..  LocalWords:  LocalWords toctree maxdepth Mathematica Jürgen Tischer Python
 ..  LocalWords:  pregrado notebooks ref doc width html td projects static src
-..  LocalWords:  border front page align center
+..  LocalWords:  border front page align center png
