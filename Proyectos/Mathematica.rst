@@ -23,13 +23,13 @@ tener que preocuparme por lo demás.
 
 La gran ventaja de *Mathematica* es que hace que sea un enorme placer escribir
 programas científicos, pues
-no sólo cuenta con un lenguaje compacto y fácil de aprender, sino que
+no sólo cuenta con un lenguaje compacto y fácil de aprender, sino que además
 involucra el uso de `notebooks`_ de trabajo, en los cuales se pueden incluir
 gráficas, texto y fórmulas científicas junto al código. Todo esto, soportado
-además por su inigualable sistema de documentación, permiten
+por su inigualable sistema de documentación, permite
 desarrollar programas de gran complejidad en poco tiempo y sin mucho esfuerzo.
 
-Fue tal mi entusiasmo por el lenguaje y su entorno, que con Mathematica realicé
+Conozco a fondo el lenguaje y su entorno, ya que con Mathematica realicé
 mi :doc:`tesis de pregrado <Tesis de pregrado>` y más adelante decidí crear una
 librería (o paquete) para mejorar las capacidades de :doc:`resaltado de los
 notebooks <Mejoras de resaltado a los notebooks>`.
