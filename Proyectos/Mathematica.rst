@@ -17,11 +17,12 @@ Tischer`_ en la Universidad del Valle.
 Viéndolo en retrospectiva, quizá no fue el mejor lenguaje con el que empezar,
 pues Mathematica le oculta al programador la gran mayoría de conceptos técnicos
 que son indispensables en su trabajo (tipos y estructuras de datos,
-compilación, etc). Sin embargo, esto también representó una gran ventaja para
-mí, pues me permitió concentrarme directamente en desarrollar programas sin
+compilación, etc). Sin embargo, esto representó una gran ventaja para
+mí, pues me permitió concentrarme en la programación de modelos computacionales, sin
 tener que preocuparme por lo demás.
 
-Mathematica hace que sea un enorme placer escribir programas científicos, pues
+La gran ventaja de *Mathematica* es que hace que sea un enorme placer escribir
+programas científicos, pues
 no sólo cuenta con un lenguaje compacto y fácil de aprender, sino que
 involucra el uso de `notebooks`_ de trabajo, en los cuales se pueden incluir
 gráficas, texto y fórmulas científicas junto al código. Todo esto, soportado
