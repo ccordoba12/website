@@ -29,7 +29,7 @@ gráficas, texto y fórmulas científicas junto al código. Todo esto, soportado
 por su inigualable sistema de documentación, permite
 desarrollar programas de gran complejidad en poco tiempo y sin mucho esfuerzo.
 
-Conozco a fondo el lenguaje y su entorno, ya que con Mathematica realicé
+Con Mathematica realicé
 mi :doc:`tesis de pregrado <Tesis de pregrado>` y más adelante decidí crear una
 librería (o paquete) para mejorar las capacidades de :doc:`resaltado de los
 notebooks <Mejoras de resaltado a los notebooks>`.
