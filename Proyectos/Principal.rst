@@ -4,10 +4,8 @@
 Proyectos
 ========= 
 
-.. raw:: html
-
-   <table border="0" id="front-page" align="center">
-   <td width="70%">
+.. image:: ../_static/projects.png
+   :align: center
 
 La mayoría de mi trabajo ha estado
 orientado hacia la programación y el desarrollo de software, porque
@@ -26,14 +24,6 @@ De los lenguajes que tradicionalmente se usan en computación científica
 (e.g. Fortran o C), sólo he utilizado :doc:`C++`, porque la velocidad de
 cómputo era de suma importancia.
 
-.. raw:: html
-   </td>
-   
-   <td width="30%" id="projects">
-   <img src="../_static/projects.png">
-   </td>
-   </table>
-
 ..  LocalWords:  LocalWords toctree maxdepth Mathematica Jürgen Tischer Python
 ..  LocalWords:  pregrado notebooks ref doc width html td projects static src
-..  LocalWords:  border front page align center png graficar
+..  LocalWords:  border front page align center png graficar img image
