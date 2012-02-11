@@ -231,6 +231,11 @@ div.admonition-carlos-a-cordoba.admonition {
     margin-left: 200px;
 }
 
+div#proyectos.section p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 a.uplink {
     font-weight: normal;
 }
