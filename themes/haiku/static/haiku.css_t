@@ -105,9 +105,9 @@ a.headerlink:hover {
 
 div.content {
     margin-top: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 30px;
     font-size: 15px;
 }
 
@@ -216,8 +216,8 @@ div.topnav > ul.tabs li a.selected {
 div.bottomnav {
     background: #FFF url(footer-bg.png) top left repeat-x;
     height: 25px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 120px;
+    margin-right: 120px;
 }
 
 div.bottomnav p {
