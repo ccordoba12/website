@@ -4,6 +4,16 @@
 Mejoras de resaltado a los notebooks
 ====================================
 
+.. raw:: html
+
+   <table border="0" id="front-page" align="center">
+   <tr>
+   <td width="80%"><img src="../_static/projects.png"></td>
+   <td width="30%" rowspan="2"><img src="../_static/mathematica-4.png"></td>
+   </tr>
+   <tr>
+   <td>
+
 Este proyecto nació en el 2003, cuando la versión actual de *Mathematica* era
 la 4.2. En esa época estaba enseñándoles el programa a dos primitos muy
 inteligentes, que aún estaban en el colegio. Mientras lo hacía, noté que la
@@ -26,10 +36,19 @@ funcione con cada nueva versión de *Mathematica* desde entonces.
 
 .. [#] Este aspecto ha sido mejorado bastante desde la versión 6.
 
+.. raw:: html
+   
+   </td>
+   </tr>
+   </table>
+
 .. _Luc Barthelet:
    http://groups.google.com.co/group/comp.soft-sys.math.mathematica/browse_thread/
    thread/377a9eb137198e05/41daa2a212e360e9?q=Luc+Barthelet+beautiful&rnum=1&hl=
    es#41daa2a212e360e9
 
-..  LocalWords:  notebooks LocalWords Mathematica notebook Luc Barthelet
-..  LocalWords:  Beatiful
+
+
+..  LocalWords:  notebooks LocalWords Mathematica notebook Luc Barthelet tr td
+..  LocalWords:  Beatiful width img src static projects png html table rowspan
+..  LocalWords:  mathematica
