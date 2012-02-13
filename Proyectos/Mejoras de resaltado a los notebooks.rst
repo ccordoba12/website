@@ -8,7 +8,7 @@ Mejoras de resaltado a los notebooks
 
    <table border="0" id="front-page" align="center">
    <tr>
-   <td width="80%"><img src="../_static/projects.png"></td>
+   <td width="80%"><img src="../_static/highlighting.png" id="highlighting"></td>
    <td width="30%" rowspan="2"><img src="../_static/mathematica-4.png"></td>
    </tr>
    <tr>
@@ -51,4 +51,4 @@ funcione con cada nueva versión de *Mathematica* desde entonces.
 
 ..  LocalWords:  notebooks LocalWords Mathematica notebook Luc Barthelet tr td
 ..  LocalWords:  Beatiful width img src static projects png html table rowspan
-..  LocalWords:  mathematica
+..  LocalWords:  mathematica highlighting
