@@ -9,7 +9,10 @@ Mejoras de resaltado a los notebooks
    <table border="0" id="front-page" align="center">
    <tr>
    <td width="80%"><img src="../_static/highlighting.png" id="highlighting"></td>
-   <td width="30%" rowspan="2"><img src="../_static/mathematica-4.png"></td>
+   <td width="30%" rowspan="2">
+   <a href=../Proyectos/Mathematica.html>
+   <img src="../_static/mathematica-4.png"></td>
+   </a>
    </tr>
    <tr>
    <td>
