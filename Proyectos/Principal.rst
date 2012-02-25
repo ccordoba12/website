@@ -16,11 +16,11 @@ A lo largo de mi carrera profesional he trabajado principalmente en lenguajes
 de alto
 nivel, como :doc:`Python` y :doc:`Mathematica <Mathematica>`, pues considero
 que están mejor capacitados para realizar el tipo de programación
-*exploratoria* a la que usualmente se enfrentan los científicos en su trabajo,
+*exploratoria* a la que se enfrentan los científicos en su trabajo,
 y que involucra: bosquejar rápidamente un modelo, procesar y graficar datos
 experimentales, compararlos con el modelo y repetir el ciclo.
 
-De los lenguajes que tradicionalmente se usan en computación científica
+De los lenguajes que comúnmente se usan en computación científica
 (e.g. Fortran o C), sólo he utilizado :doc:`C++`, porque la velocidad de
 cómputo era de suma importancia.
 
