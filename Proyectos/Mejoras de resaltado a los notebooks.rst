@@ -1,8 +1,8 @@
 .. -*- mode: rst; mode: flyspell; mode: auto-fill; mode: wiki-nav-*- 
 
-====================================
-Mejoras de resaltado a los notebooks
-====================================
+==================================================
+Mejoras de resaltado a los notebooks (2003 - 2004)
+==================================================
 
 .. raw:: html
 

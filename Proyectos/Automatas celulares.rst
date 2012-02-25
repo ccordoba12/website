@@ -1,8 +1,8 @@
 .. -*- mode: rst; mode: flyspell; mode: auto-fill; mode: wiki-nav-*- 
 
-==========================================================
-Simulación de autómatas celulares con vecindad de Margolus
-==========================================================
+========================================================================
+Simulación de autómatas celulares con vecindad de Margolus (2000 - 2002)
+========================================================================
 
 .. raw:: html
 
