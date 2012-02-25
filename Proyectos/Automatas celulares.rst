@@ -16,9 +16,9 @@ un embudo, por medio de un autómata celular con vecindad de Margolus.
 .. imagen del flujo por el embudo
 
 Haciendo uso de las increíbles capacidades de manipulación simbólica que ofrece
-*Mathematica*, ideé una forma en la que se podían definir gráficamente las
-reglas de evolución del autómata y cree una paleta de para introducirlas
-fácilmente al notebook.
+*Mathematica*, durante mi trabajo ideé una forma en la que se podían definir
+gráficamente las reglas de evolución del autómata y cree una paleta de para
+poder introducirlas fácilmente a cualquier otro notebook.
 
 .. imagen regla gráfica
 
@@ -31,10 +31,10 @@ presión en un gas de partículas.
 
 .. imagen Margolus
 
-Los interesados pueden descargar el :download:`notebook <../downloads/Automatas
-celulares con vecindad de Margolus.zip>` (actualizado para Mathematica 8) y
-encontrar más reglas de evolución para otros fenómenos físicos en la `tesis`_
-de Norm Margolus.
+Los interesados pueden :download:`descargar <../downloads/Automatas celulares
+con vecindad de Margolus.zip>` el notebook y la paleta que lo acompaña
+(actualizados para Mathematica 8), y pueden encontrar más reglas de evolución
+para otros fenómenos físicos en la `tesis`_ de Norm Margolus.
 
 .. _gas HPP: http://en.wikipedia.org/wiki/Lattice_gas_automaton
 
