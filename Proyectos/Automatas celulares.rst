@@ -17,7 +17,7 @@ un embudo, por medio de un autómata celular con vecindad de Margolus.
 
 Haciendo uso de las increíbles capacidades de manipulación simbólica que ofrece
 *Mathematica*, durante mi trabajo ideé una forma en la que se podían definir
-gráficamente las reglas de evolución del autómata y cree una paleta de para
+gráficamente las reglas de evolución del autómata y creé una paleta para
 poder introducirlas fácilmente a cualquier otro notebook.
 
 .. imagen regla gráfica
