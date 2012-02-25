@@ -13,14 +13,16 @@ La parte más interesante y extensa de mi tesis de pregrado fue la creación de
 un notebook en el que explicaba paso a paso cómo simular el flujo de arena por
 un embudo, por medio de un autómata celular con vecindad de Margolus.
 
-.. imagen del flujo por el embudo
+.. image:: ../_static/embudo.png
+   :align: center
 
 Haciendo uso de las increíbles capacidades de manipulación simbólica que ofrece
 *Mathematica*, durante mi trabajo ideé una forma en la que se podían definir
 gráficamente las reglas de evolución del autómata y creé una paleta para
 poder introducirlas fácilmente a cualquier otro notebook.
 
-.. imagen regla gráfica
+.. image:: ../_static/regla_grafica.png
+   :align: center
 
 Mi intención era que los futuros usuarios del notebook pudieran definir sus
 propias reglas, sin tener que preocuparse por como programarlas, y que sólo
@@ -29,7 +31,8 @@ sus autómatas. Como ejemplo, yo mismo definí las reglas del `gas HPP`_ y mostr
 como éste puede reproducir cualitativamente el comportamiento de una onda de
 presión en un gas de partículas.
 
-.. imagen Margolus
+.. image:: ../_static/hpp_gas.png
+   :align: center
 
 Los interesados pueden :download:`descargar <../downloads/Automatas celulares
 con vecindad de Margolus.zip>` el notebook y la paleta que lo acompaña
@@ -51,4 +54,5 @@ para otros fenómenos físicos en la `tesis`_ de Norm Margolus.
    </table>
 
 ..  LocalWords:  LocalWords pregrado Margolus table tr td notebook Mathematica
-..  LocalWords:  HPP html width Norm download downloads zip pdf
+..  LocalWords:  HPP html width Norm download downloads zip pdf center http
+..  LocalWords:  hpp
