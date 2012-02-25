@@ -24,7 +24,7 @@ falta de resaltado para el código que escribían en el notebook les dificultaba
 mucho el aprendizaje del lenguaje, aunque les parecía muy interesante el
 entorno [#]_.
 
-En busca de soluciones encontré el código de `Luc Barthelet`_ que agregaba
+En busca de soluciones encontré el código de `Luc Barthelet`_, que agregaba
 algunas opciones de resaltado a través de un botón llamado *Beatiful*. Con base
 en él, diseñé un paquete y un conjunto de botones que permitían resaltar a todo
 un notebook y que añadían más posibilidades de resaltado que el botón de Luc,
