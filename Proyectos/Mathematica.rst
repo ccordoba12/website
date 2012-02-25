@@ -44,7 +44,7 @@ notebooks <Mejoras de resaltado a los notebooks>`.
 
 .. _notebooks: http://reference.wolfram.com/mathematica/tutorial/UsingANotebookInterface.html
 .. _Mathematica: http://www.wolfram.com/mathematica/
-.. _Jürgen Tischer: http://genealogy.math.ndsu.nodak.edu/id.php?id=21393
+.. _Jürgen Tischer: http://soportematematicas.univalle.edu.co/salamat/?seccion=jt
 
 ..  LocalWords:  download downloads Mathematica LocalWords notebooks png width
 ..  LocalWords:  mathematica border table td src static pregrado raw html page
