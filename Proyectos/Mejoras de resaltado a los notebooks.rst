@@ -38,7 +38,7 @@ el resaltado usualmente se estropea y se hace necesario arreglarlo.
 Los resultados fueron muy buenos y aún considero que el paquete es muy útil
 para publicar notebooks en la web, por lo que lo he ido actualizando para que
 funcione con cada nueva versión de *Mathematica* desde entonces. El código
-puede descargarse desde :download:`este link <../downloads/MathEditor.zip>` y
+puede descargarse desde este :download:`link <../downloads/MathEditor.zip>` y
 pueden seguirse los cambios que le voy realizando en su `repositorio`_ de
 Bitbucket.
 
