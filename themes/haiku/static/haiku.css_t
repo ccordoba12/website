@@ -260,6 +260,11 @@ a.reference.internal em {
     font-style: normal;
 }
 
+img#python-logo {
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
 /* contents box */
 
 table.index {

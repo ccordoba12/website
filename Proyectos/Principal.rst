@@ -14,7 +14,7 @@ nuevos y cada vez más potentes modelos computacionales.
 
 A lo largo de mi carrera profesional he trabajado principalmente en lenguajes
 de alto
-nivel, como :doc:`Python` y :doc:`Mathematica <Mathematica>`, pues considero
+nivel, como :doc:`Python <Python>` y :doc:`Mathematica <Mathematica>`, pues considero
 que están mejor capacitados para realizar el tipo de programación
 *exploratoria* a la que se enfrentan los científicos en su trabajo,
 y que involucra: bosquejar rápidamente un modelo, procesar y graficar datos
