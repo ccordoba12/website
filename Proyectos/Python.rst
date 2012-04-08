@@ -31,8 +31,8 @@ aprender-- es que *no* está hecho por o para científicos, pues es un lenguaje
 de `propósito general`_. Esto significa que ha sido diseñado para realizar
 cualquier tipo de tarea, lo cual lo hace
 más potente y flexible que un lenguaje especializado. Gracias a ello, ha sido
-utilizado para crear gran cantidad de programas y librerías de software
-libre, casi podría decirse que una para todo propósito imaginable [#]_.
+utilizado para crear gran cantidad de programas y librerías, casi podría
+decirse que una para todo propósito imaginable [#]_.
 
 Debido a que *Mathematica* está basado en el paradigma de `programación
 funcional`_, a mediados del 2009 decidí crear un paquete llamado :doc:`funckit
