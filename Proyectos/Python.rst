@@ -24,24 +24,28 @@ No me tomó mucho tiempo darme cuenta que las mejores alternativas están basada
 en `Python`_. *Python* cuenta con un conjunto de librerías científicas estables
 y bien desarrolladas (como `Numpy`_ y `SciPy`_), con una interfaz eficiente y
 hecha a medida para el trabajo científico (`IPython`_), y con una comunidad
-numerosa y amigable, que ha desarrollado gran cantidad de programas y librerías
-de software libre, casi podría decirse que una para todo propósito imaginable
-[#]_. Esto demuestra otra de las grandes ventajas de *Python* --además de ser
-muy fácil de aprender-- y es que *no* está hecho por o para científicos, pues
-es un lenguaje de `propósito general`_. Esto significa que ha sido diseñado
-para realizar cualquier tipo de tarea, no sólo las estrictamente científicas,
-lo cual lo hace más potente y flexible que un lenguaje especializado.
+numerosa y amigable.
+
+Otra de las grandes ventajas de *Python* --además de ser muy fácil de
+aprender-- es que *no* está hecho por o para científicos, pues es un lenguaje
+de `propósito general`_. Esto significa que ha sido diseñado para realizar
+cualquier tipo de tarea, no sólo las estrictamente científicas, lo cual lo hace
+más potente y flexible que un lenguaje especializado. Gracias a ello, ha sido
+utilizado para programar gran cantidad de programas y librerías de software
+libre, casi podría decirse que una para todo propósito imaginable [#]_.
 
 Debido a que *Mathematica* está basado en el paradigma de `programación
 funcional`_, a mediados del 2009 decidí crear un paquete llamado :doc:`funckit
-<funckit>`, que lo soportara de mejor manera en Python y que me permitiera a
+<funckit>`, que lo soportara de mejor manera en *Python* y que me permitiera a
 mí, y quizá a otros en mi situación, hacer una transición más sencilla hacia
 él.
 
-Más adelante, durante los primeros meses del 2010 estuve buscando un ambiente
-integrado con el que me sintiera a gusto a la hora de desarrollar programas
-científicos. Después de mucho buscar encontré :doc:`Spyder <Spyder>`, proyecto
-en el que he estado colaborando desde entonces.
+Más adelante, durante la pŕimera mitad del 2010 estuve buscando
+desesperadamente el ambiente integrado con el que me sintiera más a gusto a la
+hora de desarrollar programas científicos basados en Python. Después de probar
+muchas posibilidades, finalmente me decidí por :doc:`Spyder <Spyder>`, proyecto
+con el que además he estado colaborando desde entonces, añadiéndole varias
+características adicionales.
 
 .. [#] Como puede verse en `PyPI <http://pypi.python.org/pypi>`_, el mayor
        repositorio de software libre del lenguaje.
