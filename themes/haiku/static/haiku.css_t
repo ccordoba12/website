@@ -346,9 +346,9 @@ div.seealso {
 /* More layout and styles */
 h1 {
     font-size: 28px;
-    font-weight: 300;
+    font-weight: 500;
     color: {{ theme_headingcolor }};
-    font-family: 'Kreon', 'Bitstream Charter', Arial, sans-serif;
+    font-family: Oxygen, 'Bitstream Charter', Arial, sans-serif;
     text-shadow: none;
     letter-spacing: -1px;
     border-bottom: dotted thin #e0e0e0;
