@@ -26,14 +26,14 @@ entorno [#]_.
 
 En busca de soluciones encontré el código de `Luc Barthelet`_, que agregaba
 algunas opciones de resaltado a través de un botón llamado *Beatiful*. Con base
-en él, diseñé un paquete y un conjunto de botones que permitían resaltar a todo
+en él, diseñé un paquete y un conjunto de botones que permitían resaltar todo
 un notebook y que añadían más posibilidades de resaltado que el botón de Luc,
 junto con un atajo de teclado para reaplicarlo continuamente. Dado que no es
 posible tener acceso al funcionamiento interno de *Mathematica*, no pude
 encontrar ninguna forma de aplicar el resaltado en tiempo real. Lo que hace el
 paquete es modificar el color y estilo del código en el notebook, así que
 cuando el usuario escribe nuevos comandos y funciones sobre el código actual,
-el resaltado usualmente se estropea y se hace necesario arreglarlo.
+el resaltado usualmente se estropea y se hace necesario reaplicarlo.
 
 Los resultados fueron muy buenos y aún considero que el paquete es muy útil
 para publicar notebooks en la web, por lo que lo he ido actualizando para que
