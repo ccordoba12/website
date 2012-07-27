@@ -11,7 +11,7 @@ Python (Desde 2009)
 
 Mientras concluía mi maestría en el 2008, sentí la necesidad de contar con un
 lenguaje sencillo y versátil, con el que pudiera analizar rápidamente los
-resultados de las simulaciones que estaba generando.
+resultados de las simulaciones que estaba realizando.
 
 Debido al contacto con el movimiento *open source* que tuve durante mi tesis,
 sabía que este lenguaje
@@ -35,7 +35,7 @@ cualquier tipo de tarea, lo cual lo hace
 más potente y flexible que un lenguaje especializado (que son en los que se
 basan *Mathematica* o *Matlab*). Gracias a ello, ha sido
 utilizado para crear gran cantidad de programas y librerías, casi podría
-decirse que una para todo propósito imaginable [#]_.
+decirse que una para todo propósito imaginable! [#]_.
 
 Debido a que *Mathematica* está basado en el paradigma de `programación
 funcional`_, a mediados del 2009 decidí crear un paquete llamado :doc:`funckit
