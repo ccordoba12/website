@@ -74,7 +74,7 @@ Completado de librerías
 -----------------------
 
 Unos seis meses después de esta primera contribución, le añadí a Spyder la
-funcionalidad necesaria a para que el usuario pudiera obtener sugerencias de
+funcionalidad necesaria para que el usuario pudiera obtener sugerencias de
 completado cuando está intentando cargar una librería externa. Para ello adapté
 el código que con tal fin fue creado por los desarrolladores del proyecto
 `IPython <http://www.ipython.org>`_, pero que en ese momento sólo funcionaba en
@@ -82,27 +82,86 @@ una terminal de comandos y no en una interfaz gráfica.
 
 A continuación se aprecia una imagen del resultado obtenido:
 
+.. image:: ../_static/module_completion.png
+   :align: center
+
 
 Mostrar ecuaciones matemáticas en la ayuda
 ------------------------------------------
 
-Existen varios proyectos que han sido pensados para trabajar con matemática
-como `Sympy <http://sympy.org/en/index.html>`_ y `mpmath
-<http://mpmath.googlecode.com/svn/trunk/doc/build/index.html>`_, que incluyen
-ecuaciones entre sus textos de ayuda. Estas ecuaciones son escritas en Latex y
-después renderizadas por
+A principios de este año le añadí a nuestro visor de ayuda la facilidad de
+renderizar ecuaciones matemáticas escritas en Latex, como se aprecia en la
+siguiente imagen:
 
-A principios de este año le añadí la facilidad de mostrar ecuaciones
-matemáticas escritas en Latex:
+.. image:: ../_static/math_in_oi.png
+   :align: center
+
+De esta forma los usuarios que están utilizando librerías creadas para realizar
+matemática simbólica o de precisión arbitraria, como `SymPy
+<http://sympy.org/en/index.html>`_ y `mpmath
+<http://mpmath.googlecode.com/svn/trunk/doc/build/index.html>`_, pueden acceder
+a sus textos de ayuda con mucha mayor facilidad.
 
 
-MacOS X e IPython
------------------
+Mejor integración con IPython
+-----------------------------
 
-En este momento estoy trabajando en producir una aplicación para MacOS X que
-sea auto-contenida y totalmente funcional.
+Hace un año los desarrolladores de *IPython* introdujeron una novedosa interfaz
+gráfica para su terminal de ejecución, en la que se pueden incluir gráficas,
+ecuaciones matemáticas y código, como puede verse `aquí
+<http://ipython.org/ipython-doc/dev/interactive/qtconsole.html>`_. Casi de
+`inmediato
+<http://spyder-ide.blogspot.com/2011/08/preview-of-new-ipython-plugin-for.html>`_,
+Pierre incorporó esta terminal mejorada en *Spyder*.
 
-en mejorar la integración de *IPython* con *Spyder*:
+Sin embargo, Pierre realizó su labor muy rápidamente y como una prueba de
+concepto, razón por la cual la terminal no fue completamente integrada al resto
+de componentes de *Spyder* (como el Editor y el Inspector de Objetos). Por
+ello, la experiencia que el usuario podía obtener de la misma era bastante
+sub-óptima.
+
+No obstante, a finales de Mayo de este año la situación empezó a mejorar
+rápidamente, gracias a que Pierre le añadió a los componentes mencionados las
+piezas faltantes para lograr una verdadera integración con la terminal.
+
+Al contar con este nuevo código, yo pude concluir su trabajo en Junio. Primero
+añadí varias ventanas de configuración, para que el usuario pudiera ajustar
+gráficamente las opciones más importantes de la terminal.
+
+.. image:: ../_static/ipython_options.png
+   :align: center
+
+Después le añadí un menú de opciones al componente que está a cargo de la
+terminal, para que el usuario contara con rápido acceso a la documentación de
+la misma y para que contara con la posibilidad de interrumpir o reiniciar los
+cómputos que se están desarrollando en la misma.
+
+.. image:: ../_static/ipython_plugin_options.png
+   :align: center
+
+Finalmente le añadí varios atajos de teclado para poder realizar varias
+acciones de forma más eficiente.
+
+.. image:: ../_static/ipython_right_click_options.png
+   :align: center
+
+
+Instalador para MacOS X
+-----------------------
+
+Durante Julio estuve concentrado en crear una aplicación para MacOS X que fuese
+completamente auto-contenida y funcional. El principal problema que afrontaban
+los usuarios de esta plataforma es que los programas y las librerías
+científicas necesarias para que *Spyder* funcionase adecuadamente eran
+difíciles de instalar, a diferencia de lo que ocurre en Linux y Windows.
+
+Ahora sólo deben descargar un disco de imagen de Apple (el medio más común para
+distribuir programas en Mac), que al abrirlo les presentará un instalador
+gráfico para que con un arrastre del mouse puedan empezar a usar nuestra
+aplicación en sus equipos.
+
+.. image:: ../_static/macosx.png
+   :align: center
 
 
 .. _IPython: http://ipython.org/
@@ -120,4 +179,5 @@ en mejorar la integración de *IPython* con *Spyder*:
    </table>
 
 ..  LocalWords:  IPython http ipython org Matlab Mathematica Perez Berkeley
-..  LocalWords:  Python Spyder MacOS LocalWords bugs www Sympy mpmath html
+..  LocalWords:  Python Spyder MacOS LocalWords bugs www Sympy mpmath html png
+..  LocalWords:  static center faltantes
