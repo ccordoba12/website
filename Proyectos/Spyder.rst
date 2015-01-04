@@ -51,12 +51,12 @@ he hecho a *Spyder* han sido:
 Ayuda en texto enriquecido
 --------------------------
 
-Mi primer aporte fue hacer que Spyder pudiera mostrar la documentación de
+Mi primer aporte fue hacer que *Spyder* pudiera mostrar la documentación de
 funciones y clases como texto enriquecido y no como texto plano. Para ello tomé
 una `pequeña librería
 <http://sagenb.org/doc/static/reference/sagenb/misc/sphinxify.html>`_
 desarrollada por Tim Dumol para el proyecto `Sage <http://www.sagemath.org>`_ y
-la adapté para que funcionara en Spyder.
+la adapté para que funcionara en *Spyder*.
 
 Antes de este aporte, el usuario sólo podía acceder a la documentación de esta
 forma:
@@ -73,7 +73,7 @@ y ahora puede lo puede hacer así:
 Completado de librerías
 -----------------------
 
-Unos seis meses después de esta primera contribución, le añadí a Spyder la
+Unos seis meses después de esta primera contribución, le añadí a *Spyder* la
 funcionalidad necesaria para que el usuario pudiera obtener sugerencias de
 completado cuando está intentando cargar una librería externa. Para ello adapté
 el código que con tal fin fue creado por los desarrolladores del proyecto
@@ -126,21 +126,22 @@ piezas faltantes para lograr una verdadera integración con la terminal.
 
 Al contar con este nuevo código, yo pude concluir su trabajo en Junio. Primero
 añadí varias ventanas de configuración, para que el usuario pudiera ajustar
-gráficamente las opciones más importantes de la terminal.
+visualmente las opciones más importantes de la terminal.
 
 .. image:: ../_static/ipython_options.png
    :align: center
 
 Después le añadí un menú de opciones al componente que está a cargo de la
-terminal, para que el usuario contara con rápido acceso a la documentación de
-la misma y para que contara con la posibilidad de interrumpir o reiniciar los
-cómputos que se están desarrollando en la misma.
+terminal, para que el usuario contara con la posibilidad de interrumpir o
+reiniciar los cómputos que se están desarrollando en ella, y con un rápido
+acceso a la documentación de la misma.
 
 .. image:: ../_static/ipython_plugin_options.png
    :align: center
 
-Finalmente le añadí varios atajos de teclado para poder realizar varias
-acciones de forma más eficiente.
+Finalmente le añadí algunos atajos de teclado para poder realizar varias
+acciones de forma más eficiente, como obtener la documentación de un objeto en
+el Inspector de Objetos.
 
 .. image:: ../_static/ipython_right_click_options.png
    :align: center
